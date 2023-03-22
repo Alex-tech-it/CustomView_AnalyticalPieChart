@@ -13,12 +13,10 @@ AnalyticalPieChart - это кастомная вью, написанная с �
 В самом проекте я продемонстрировал разные примеры и возможности использования данной CustomView, надеюсь многим это понравится😇
 
 *Примеры, которые многие хотят посмотреть*
-## **Пример 1**
+## **Пример**
 ![Пример_1](https://github.com/Alex-tech-it/CustomView_AnalyticalPieChart/tree/master/imgs/1_AnalyticalPieChart.jpg)
-
-## **Пример 2**
 ![Пример_2](https://github.com/Alex-tech-it/CustomView_AnalyticalPieChart/tree/master/imgs/2_AnalyticalPieChart.jpg)
 
-## **Пример 3**
+## **Пример GIF**
 ![Пример_3](https://github.com/Alex-tech-it/CustomView_AnalyticalPieChart/tree/master/imgs/3_AnalyticalPieChartGIF.gif)
 
