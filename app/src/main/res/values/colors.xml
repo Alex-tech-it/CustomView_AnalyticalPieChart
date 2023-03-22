@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Window background color -->
+    <color name="dark_black">#252736</color>
+
+    <!-- Hint text and items color -->
+    <color name="gray_hint">#8B8A92</color>
+
+    <color name="white">#FFFFFF</color>
+
+</resources>
