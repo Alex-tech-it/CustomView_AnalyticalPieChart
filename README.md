@@ -14,5 +14,5 @@ AnalyticalPieChart - это кастомная вью, написанная с �
 
 *Примеры, которые многие хотят посмотреть*
 ## **Пример**
-![Пример_1](https://github.com/Alex-tech-it/CustomView_AnalyticalPieChart/tree/master/imgs/1_AnalyticalPieChart 1.jpg)
+![Пример_1](https://github.com/Alex-tech-it/CustomView_AnalyticalPieChart/raw/master/imgs/1_AnalyticalPieChart.jpg)
 
