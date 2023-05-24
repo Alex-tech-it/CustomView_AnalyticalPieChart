@@ -407,7 +407,7 @@ class AnalyticalPieChart @JvmOverloads constructor(
                 stroke = circleStrokeWidth,
                 paintRound = circlePaintRoundSize
             )
-            startAt += percent + circleSectionSpace
+            if (percent != 0F) startAt += percent + circleSectionSpace
             resultModel
         }
     }
